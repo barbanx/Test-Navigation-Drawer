@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:id="@+id/fragment_main"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:orientation="vertical"
+             android:layout_gravity="center_horizontal"
+             android:gravity="center"
+             android:background="#ffc7c7c7"
+             tools:context="com.example.robertbarber.testnavigationdrawer.DrawerFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_main"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:id="@+id/page_main_slidebutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:text="@string/slide_button_text"/>
+
+</LinearLayout>

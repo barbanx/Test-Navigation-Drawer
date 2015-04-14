@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TestNavigationDrawer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="slide_button_text">Slide to the right</string>
+
+    <!-- Navigation Drawer Strings -->
+    <string name="hello_drawer">Hello Drawer!</string>
+    <string name="home_button_text">Home Page</string>
+    <string name="events_button_text">Events Page</string>
+
+    <!-- Main Page Strings -->
+    <string name="hello_main">This is the Main page</string>
+
+    <!-- Events Page Strings -->
+    <string name="hello_events">This is the Events page</string>
+
+</resources>
